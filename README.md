@@ -6,6 +6,7 @@ Voici un exemple d'application :
    <p align="center">
    <img src="https://github.com/ClaireGouessant/DES/blob/master/DES1.PNG" width="700"/>
    </p>
+   
    *  Le résultat trouvé
    <p align="center">
    <img src="https://github.com/ClaireGouessant/DES/blob/master/DES2.PNG" width="700"/>
